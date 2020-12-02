@@ -1,2 +1,2 @@
-# oliverbroadrick.com
-Why not have a personal website?
+# norabroadrick.com
+A website for my younger sister Nora. 
